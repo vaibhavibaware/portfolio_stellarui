@@ -37,14 +37,14 @@ export const HeroSection = () => {
           </div>
         </div>
 
-        {/* Right Image */}
+{/*         {/* Right Image */}
         <div className="w-60 h-60 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary shadow-lg opacity-0 animate-fade-in-delay-5 animate-float">
         <img
         src={heroImage}
         alt="Vaibhavi Baware"
         className="w-full h-full object-cover"
         />
-        </div>
+        </div> */}
 
       </div>
     </section>
