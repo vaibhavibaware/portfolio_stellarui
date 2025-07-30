@@ -1,8 +1,8 @@
-const heroImage = new URL("../assets/vaibhavi_dev.png", import.meta.url).href;
+// const heroImage = new URL("../assets/vaibhavi_dev.png", import.meta.url).href;
 
 
 export const HeroSection = () => {
-  console.log("Image path:", heroImage);
+  // console.log("Image path:", heroImage);
 
   return (
     <section
