@@ -11,4 +11,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: "/portfolio_stellarui/", // 👈 very important for GitHub Pages
 });
