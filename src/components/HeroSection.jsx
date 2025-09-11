@@ -36,8 +36,6 @@ export const HeroSection = () => {
             <a href="#projects" className="cosmic-button">View My Work</a>
           </div>
         </div>
-<<<<<<< HEAD
-=======
         
         {/* Right Image */}
         <div className="w-60 h-60 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary shadow-lg opacity-0 animate-fade-in-delay-5 animate-float">
@@ -49,7 +47,6 @@ export const HeroSection = () => {
             onLoad={() => console.log('Image loaded successfully from:', '/images/vaibhavi_dev.png')}
           />
         </div>
->>>>>>> 742609c (Updated HeroSection, removed old image, added new images and CV)
       </div>
     </section>
   );
